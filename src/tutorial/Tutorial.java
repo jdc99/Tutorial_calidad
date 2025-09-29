@@ -8,6 +8,7 @@ public class Tutorial {
 		System.out.println("Este es del commit 2!");
 		
 		System.out.println("Esto es para la primera rama");
+		System.out.println("Commit 2 de la primera rama");
 	}
 
 }
