@@ -12,6 +12,8 @@ public class Tutorial {
 		
 		System.out.println("Esto es para la segunda rama");
 		System.out.println("Commit 2 de la segunda rama");
+		
+		System.out.println("Rama2 continua por separado");
 	}
 
 }
